@@ -1,123 +1,170 @@
 [
     {
-      "id": 1,
-      "name": "Awlad Hossain",
-      "speciality": "Criminal Expert",
-      "experience": 5,
-      "license": "12451254",
-      "image": "https://www.fmassociatesbd.com/images/individual/Barrister_advocate_supremecourt_appellatedivision_Corporate_lawyer_bangladesh_alaminrahman.jpg",
-      "fee": 5000,
-      "availability": ["Sunday", "Monday", "Thursday"]
+        "id": 1,
+        "name": "Awlad Hossain",
+        "speciality": "Criminal Expert",
+        "experience": 5,
+        "license": "12451254",
+        "image": "https://www.fmassociatesbd.com/images/individual/Barrister_advocate_supremecourt_appellatedivision_Corporate_lawyer_bangladesh_alaminrahman.jpg",
+        "fee": 5000,
+        "availability": [
+            "Sunday",
+            "Monday",
+            "Thursday"
+        ]
     },
     {
-      "id": 2,
-      "name": "Rafiul Islam",
-      "speciality": "Cybercrime Investigator",
-      "experience": 4,
-      "license": "45321232",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjzMx2axPGNE3uBRIMbCQeGKyFHyjENQOeAX88m-cT26uVvleUR12HGs9BJodrFZkOl4c&usqp=CAU",
-      "fee": 4500,
-      "availability": ["Tuesday", "Wednesday", "Friday"]
+        "id": 2,
+        "name": "Rafiul Islam",
+        "speciality": "Cybercrime Investigator",
+        "experience": 4,
+        "license": "45321232",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjzMx2axPGNE3uBRIMbCQeGKyFHyjENQOeAX88m-cT26uVvleUR12HGs9BJodrFZkOl4c&usqp=CAU",
+        "fee": 4500,
+        "availability": [
+            "Tuesday",
+            "Wednesday",
+            "Friday"
+        ]
     },
     {
-      "id": 3,
-      "name": "Jamil Ahmed",
-      "speciality": "Forensic Analyst",
-      "experience": 6,
-      "license": "78654321",
-      "image": "https://content.jdmagicbox.com/v2/comp/jalgaon/n2/9999px257.x257.190304221103.j2n2/catalogue/adv-jitesh-ashok-potdar-chalisgaon-town-chalisgaon-lawyers-for-documentation-drc9d4wuo4-250.jpg",
-      "fee": 5500,
-      "availability": ["Monday", "Thursday", "Saturday"]
+        "id": 3,
+        "name": "Jamil Ahmed",
+        "speciality": "Forensic Analyst",
+        "experience": 6,
+        "license": "78654321",
+        "image": "https://content.jdmagicbox.com/v2/comp/jalgaon/n2/9999px257.x257.190304221103.j2n2/catalogue/adv-jitesh-ashok-potdar-chalisgaon-town-chalisgaon-lawyers-for-documentation-drc9d4wuo4-250.jpg",
+        "fee": 5500,
+        "availability": [
+            "Monday",
+            "Thursday",
+            "Saturday"
+        ]
     },
     {
-      "id": 4,
-      "name": "Sabrina Rahman",
-      "speciality": "Homicide Detective",
-      "experience": 7,
-      "license": "98765432",
-      "image": "https://legalcounselbd.com/wp-content/uploads/2020/12/ADVOCATE-AFRIN-JAHAN-KHAN.jpg",
-      "fee": 6000,
-      "availability": ["Sunday", "Tuesday", "Wednesday"]
+        "id": 4,
+        "name": "Sabrina Rahman",
+        "speciality": "Homicide Detective",
+        "experience": 7,
+        "license": "98765432",
+        "image": "https://legalcounselbd.com/wp-content/uploads/2020/12/ADVOCATE-AFRIN-JAHAN-KHAN.jpg",
+        "fee": 6000,
+        "availability": [
+            "Sunday",
+            "Tuesday",
+            "Wednesday"
+        ]
     },
     {
-      "id": 5,
-      "name": "Tariq Hasan",
-      "speciality": "Narcotics Specialist",
-      "experience": 3,
-      "license": "56473829",
-      "image": "https://superlawyer.in/wp-content/uploads/2024/05/DSC_0079g-scaled.jpg",
-      "fee": 4000,
-      "availability": ["Friday", "Saturday", "Sunday"]
+        "id": 5,
+        "name": "Tariq Hasan",
+        "speciality": "Narcotics Specialist",
+        "experience": 3,
+        "license": "56473829",
+        "image": "https://superlawyer.in/wp-content/uploads/2024/05/DSC_0079g-scaled.jpg",
+        "fee": 4000,
+        "availability": [
+            "Friday",
+            "Saturday",
+            "Sunday"
+        ]
     },
     {
-      "id": 6,
-      "name": "Nusrat Jahan",
-      "speciality": "Financial Fraud Expert",
-      "experience": 8,
-      "license": "10293847",
-      "image": "https://lawfirm.com.bd/wp-content/uploads/2023/12/Jpg-349-1024x683.jpg",
-      "fee": 6500,
-      "availability": ["Monday", "Wednesday", "Friday"]
+        "id": 6,
+        "name": "Nusrat Jahan",
+        "speciality": "Financial Fraud Expert",
+        "experience": 8,
+        "license": "10293847",
+        "image": "https://lawfirm.com.bd/wp-content/uploads/2023/12/Jpg-349-1024x683.jpg",
+        "fee": 6500,
+        "availability": [
+            "Monday",
+            "Wednesday",
+            "Friday"
+        ]
     },
     {
-      "id": 7,
-      "name": "Habib Ullah",
-      "speciality": "Missing Persons Investigator",
-      "experience": 5,
-      "license": "29384756",
-      "image": "https://lawfirm.com.bd/wp-content/uploads/2023/12/Jpg-720-rotated.jpg",
-      "fee": 5000,
-      "availability": ["Tuesday", "Thursday", "Saturday"]
+        "id": 7,
+        "name": "Habib Ullah",
+        "speciality": "Missing Persons Investigator",
+        "experience": 5,
+        "license": "29384756",
+        "image": "https://lawfirm.com.bd/wp-content/uploads/2023/12/Jpg-720-rotated.jpg",
+        "fee": 5000,
+        "availability": [
+            "Tuesday",
+            "Thursday",
+            "Saturday"
+        ]
     },
     {
-      "id": 8,
-      "name": "Farzana Khan",
-      "speciality": "Digital Forensics",
-      "experience": 4,
-      "license": "84736291",
-      "image": "https://media.licdn.com/dms/image/v2/D4D03AQGmTPinkkaqXQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1689650897567?e=2147483647&v=beta&t=FtU451rMCiLyKtPQ5shjceATIZNk92Yy_gLA0j6jX3g",
-      "fee": 4500,
-      "availability": ["Sunday", "Wednesday", "Saturday"]
+        "id": 8,
+        "name": "Farzana Khan",
+        "speciality": "Digital Forensics",
+        "experience": 4,
+        "license": "84736291",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQGmTPinkkaqXQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1689650897567?e=2147483647&v=beta&t=FtU451rMCiLyKtPQ5shjceATIZNk92Yy_gLA0j6jX3g",
+        "fee": 4500,
+        "availability": [
+            "Sunday",
+            "Wednesday",
+            "Saturday"
+        ]
     },
     {
-      "id": 9,
-      "name": "Rashid Chowdhury",
-      "speciality": "Gang Crime Expert",
-      "experience": 6,
-      "license": "12349876",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcH6D5RX4xYIWcbgqf5PYyC1O3Nkfh7EYnIIxGXsEIVJJ591b_ihAG7JkZgKSAsjVhrDw&usqp=CAU",
-      "fee": 5500,
-      "availability": ["Monday", "Tuesday", "Thursday"]
+        "id": 9,
+        "name": "Rashid Chowdhury",
+        "speciality": "Gang Crime Expert",
+        "experience": 6,
+        "license": "12349876",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcH6D5RX4xYIWcbgqf5PYyC1O3Nkfh7EYnIIxGXsEIVJJ591b_ihAG7JkZgKSAsjVhrDw&usqp=CAU",
+        "fee": 5500,
+        "availability": [
+            "Monday",
+            "Tuesday",
+            "Thursday"
+        ]
     },
     {
-      "id": 10,
-      "name": "Mariam Akter",
-      "speciality": "Sex Crimes Investigator",
-      "experience": 5,
-      "license": "56473820",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqV6gVsvAlmw2oz6TFz_Hu53bDPKhdX8AcZvYNsX4ea04aTxmeJ2p8Uka5Nsv9PptiGss&usqp=CAU",
-      "fee": 5000,
-      "availability": ["Wednesday", "Friday", "Saturday"]
+        "id": 10,
+        "name": "Mariam Akter",
+        "speciality": "Sex Crimes Investigator",
+        "experience": 5,
+        "license": "56473820",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqV6gVsvAlmw2oz6TFz_Hu53bDPKhdX8AcZvYNsX4ea04aTxmeJ2p8Uka5Nsv9PptiGss&usqp=CAU",
+        "fee": 5000,
+        "availability": [
+            "Wednesday",
+            "Friday",
+            "Saturday"
+        ]
     },
     {
-      "id": 11,
-      "name": "Kamrul Ahsan",
-      "speciality": "Arson Investigator",
-      "experience": 7,
-      "license": "99887766",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdhIy1eBuX_V01FofOnGoUldSXyF9Vs02y4mHPmnFJV1ynWbLDsQ8XAJVaVygiQluZX00&usqp=CAU",
-      "fee": 6000,
-      "availability": ["Tuesday", "Thursday", "Saturday"]
+        "id": 11,
+        "name": "Kamrul Ahsan",
+        "speciality": "Arson Investigator",
+        "experience": 7,
+        "license": "99887766",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdhIy1eBuX_V01FofOnGoUldSXyF9Vs02y4mHPmnFJV1ynWbLDsQ8XAJVaVygiQluZX00&usqp=CAU",
+        "fee": 6000,
+        "availability": [
+            "Tuesday",
+            "Thursday",
+            "Saturday"
+        ]
     },
     {
-      "id": 12,
-      "name": "Shamima Nasrin",
-      "speciality": "Cold Case Specialist",
-      "experience": 9,
-      "license": "11223344",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhy-BVu2jh62z3jbCMsvm-LyLnkZwwFbEXi5N9SpFer83tzrF35uVWAyWz8EP2_j8KGBg&usqp=CAU",
-      "fee": 7000,
-      "availability": ["Sunday", "Monday", "Friday"]
+        "id": 12,
+        "name": "Shamima Nasrin",
+        "speciality": "Cold Case Specialist",
+        "experience": 9,
+        "license": "11223344",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhy-BVu2jh62z3jbCMsvm-LyLnkZwwFbEXi5N9SpFer83tzrF35uVWAyWz8EP2_j8KGBg&usqp=CAU",
+        "fee": 7000,
+        "availability": [
+            "Sunday",
+            "Monday",
+            "Friday"
+        ]
     }
-  ]
-  
+]
